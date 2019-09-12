@@ -1,0 +1,7 @@
+{
+  "name": "payumoney",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
